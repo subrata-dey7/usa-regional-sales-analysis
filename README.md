@@ -510,4 +510,4 @@ Analyze cost structures and pricing strategies of the **top-margin products** to
 This project is open source and free to use for educational purposes.
 
 
-🎉🎉 Thank you for checking out the - “USA Regional Sales Analysis” project !!!
+🎉🎉 Thank you for checking out the - “USA Regional Sales Analysis (EDA)” project !!!

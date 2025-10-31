@@ -504,3 +504,10 @@ Analyze cost structures and pricing strategies of the **top-margin products** to
 - 5️⃣ **Align inventory and campaigns** with clear seasonal demand peaks (May–June, Q4).
 
 - 6️⃣ **Use data correlations** to refine pricing strategies and forecast revenue–profit trends more accurately.
+
+## **📜 License:**
+
+This project is open source and free to use for educational purposes.
+
+
+🎉🎉 Thank you for checking out the - “USA Regional Sales Analysis” project !!!
